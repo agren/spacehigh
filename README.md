@@ -12,8 +12,10 @@ USE AT YOUR OWN RISK, HAVEN'T BEEN THOROUGHLY TESTED
 * patch.c       - Program to patch the file invaders.f with the contents of the intel hex file spacehigh.ihx.
                   Works only with a rom set of 4 2Kbyte roms.
 
+## Testing
 The high score list has been successfully tested on real Midway L-shaped hardware strapped for 9316 EPROMs. The f chip was replaced with a ST M2732A (with the rom doubled as described in http://www.brentradio.com/images/SpaceInvaders/midway_8080_tech.txt).
 
+## Acknowledgements
 The time and effort put into this was greatly reduced by using
 the dissassembly comments by Chris Cantrell at
 http://computerarcheology.com
